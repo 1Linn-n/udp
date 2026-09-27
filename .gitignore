@@ -1,0 +1,16 @@
+build/
+*.exe
+*.obj
+*.o
+*.a
+server.log
+__pycache__/
+.pytest_cache/
+.vs/
+.idea/
+# Word временные файлы (lock-файлы ~$*.docx)
+~$*.docx
+
+# ����� Word � ��������� ������ � �� ����� ����������� �������
+*.docx
+tools/make_report.py
